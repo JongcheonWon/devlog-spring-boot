@@ -1,0 +1,5 @@
+dependencies {
+    implementation 'org.springframework.integration:spring-integration-sftp'
+//    implementation 'org.springframework.boot:spring-boot-starter-integration'
+    compile group: 'org.apache.sshd', name: 'sshd-sftp', version: '2.2.0'
+}

@@ -1,0 +1,9 @@
+#sftp:
+#  host: localhost
+#  port: 22
+#  user: sa
+#  private-key:
+#  private-key-passphrase:
+#  password: password
+#  remote:
+#    directory: ${user.dir}
